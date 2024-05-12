@@ -1,10 +1,11 @@
 #include <iostream>
 using namespace std;
+int main () 
+{
 
-int main () {
-
-
+{
 cout<<"hello World";
+}
     return 0;
     
 }
